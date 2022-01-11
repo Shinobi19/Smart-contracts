@@ -1,6 +1,4 @@
-/// Console Cowboys Smart Contract Hacking Course
-/// @author Olie Brown @ficti0n
-/// http://cclabs.io 
+
 
 interface targetInterface{
     function deposit() external payable; 
